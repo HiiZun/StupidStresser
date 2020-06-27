@@ -8,6 +8,10 @@
 
 > A stupid stresser for your computer
 
+## Demo
+
+![Alt Text](https://cdn.discordapp.com/attachments/420964795974549514/726381460361052160/Peek_27-06-2020_12-17.gif)
+
 ## Install
 
 ```sh
