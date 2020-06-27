@@ -1,6 +1,5 @@
 // We will start multiple processes with child process to do more stress on the cpu :D 
 const { spawn } = require('child_process');
-const { cpus } = require("os")
 
 console.warn("⚠⚠ | WARNING ! WE ARE NOT RESPONSABLE IF YOUR COMPUTER CRASH OR EXPLODE (no it's not possible haha) BUT DON'T USE THIS TO MALICIOUS ENDS | ⚠⚠")
 
